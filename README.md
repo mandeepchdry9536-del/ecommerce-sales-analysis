@@ -28,7 +28,8 @@ This project analyzes an e-commerce sales dataset to identify trends, patterns, 
 - Improve underperforming regions
 
 ## 📷 Sample Visualizations
-![Profit Graph](images/profit_by_category.png)
+
+![Category Profit](images/category_profit.png)
 
 ## 📁 Project Structure
 ecommerce-sales-analysis/
