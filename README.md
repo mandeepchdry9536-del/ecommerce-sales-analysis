@@ -33,17 +33,29 @@ This project analyzes an e-commerce sales dataset to identify trends, patterns, 
 
 ## 📁 Project Structure
 ecommerce-sales-analysis/
+
 │
+
 ├── data/
+
 │   └── superstore.csv
+
 │
+
 ├── notebook/
+
 │   └── analysis.ipynb
+
 │
+
 ├── images/
+
 │   └── profit_by_category.png
+
 │
+
 ├── README.md
+
 └── requirements.txt
 
 ## 👨‍💻 Author
