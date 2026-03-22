@@ -28,10 +28,22 @@ This project analyzes an e-commerce sales dataset to identify trends, patterns, 
 - Improve underperforming regions
 
 ## 📷 Sample Visualizations
-(Add images from /images folder here)
+![Profit Graph](images/profit_by_category.png)
 
 ## 📁 Project Structure
-
+ecommerce-sales-analysis/
+│
+├── data/
+│   └── superstore.csv
+│
+├── notebook/
+│   └── analysis.ipynb
+│
+├── images/
+│   └── profit_by_category.png
+│
+├── README.md
+└── requirements.txt
 
 ## 👨‍💻 Author
 Mandeep kumar
